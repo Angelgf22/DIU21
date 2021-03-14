@@ -17,9 +17,9 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
-        $scope.Grupo_ID ="DIU1.ABCDEF";
+        $scope.Grupo_ID ="DIU2.disfrutones";
         $scope.Curso ="2020/21";
-        $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
+        $scope.Github_ID ="https://github.com/Angelgf22/DIU21/tree/master/P1";
         
 		$scope.PersonaIndex = 0;
 		$scope.Personas = [
@@ -33,36 +33,36 @@ angular.module("angular", [])
                 
                 
 				Id: 0,
-				Name: "Pedro",
-				Photo: "man.png",
-				Quote: "Carpe Diem",
-				Age: 32,
-				Occupation: "Comercial en empresa de automocion",
-				Family: "Con pareja desde hace 1 año",
-				Location: "Granada (Huetor Vega)",
-				Character: "Le gusta disfrutar del tiempo",
+				Name: "Julio Colón",
+				Photo: "man1.jpeg",
+				Quote: "¡A por ello!",
+				Age: 25,
+				Occupation: "Deportista paraolímpico de baloncesto",
+				Family: "Con pareja desde hace 4 años",
+				Location: "Atarfe, Granada",
+				Character: "Le gusta entrenar baloncesto. Va en silla de ruedas",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 1 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 3 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 5 }
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 2 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 4 },
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 1 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 1 }
 				], 
-				Goals: ["Disfrutar del tiempo libre, viajar", "Cambiar a un trabajo más estable"],
-				Frustrations: ["le gusta la tecnología, pero siempre 'llama a un amigo' para resolver problemas", "Le gustaría tener más tiempo libre y leer más"],
-				Bio: "Es de Modril y vino a Granada para estudiar administración de empresas, pero no ha tenido grandes oportunidades de trabajo. LLeva 2 años contratado en la empresa actual. Aqui ha hecho buenos amigo en el trabajo y normalmente ser reunen para fiestas y a veces organizan viajes",
+				Goals: ["Viajar y la naturaleza", "Mejorar como jugador" , "Formar una familia."],
+				Frustrations: ["No saber a que dedicarse en el futuro.", "Le gustaría viajar a más sitios."],
+				Bio: "Es de Ecuador pero vino a Granada de joven con su familia. Le gustaba mucho el baloncesto. En un accidente de tráfico acabó en silla de ruedas a los 10 años, aquí consiguió hacerse jugador reconocido de baloncesto paralímpico. LLeva 3 años jugando profesionalmente y aspira a las paraolimpiadas. Tiene bastantes amigos y se lleva muy bien con su equipo de baloncesto. A veces organiza viajes con su pareja y amigos. También le gusta jugar videojuegos en su tiempo libre.",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 2 },
-					{ Name: "Movil", Value: 2 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 2 }
+					{ Name: "TIC/Internet", Value: 4 },
+					{ Name: "Movil", Value: 4 },
+					{ Name: "RRSS", Value: 2 },
+					{ Name: "Software", Value: 5 }
 					
 				], 
-                Contextos: "LLeva un tiempo preocupado y quiere desconectar Le gustaría dar una sorpresa a sus amigos para las vacaciones",  
+                Contextos: "Le gustaría hacer el camino de Santiago con sus amigos.",  
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional", Value: 5 },
-					{ Name: "Online & Social Media", Value: 3 },
+					{ Name: "Publicidad Tradicional", Value: 1 },
+					{ Name: "Online & Social Media", Value: 2 },
 					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 1 }
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 3 }
 				]
 			},
 			{	
@@ -74,36 +74,36 @@ angular.module("angular", [])
                 
                 
 				Id: 1,
-				Name: "Monica Suarez",
-				Photo: "woman.png",
-				Quote: "A quotation that captures the essence of this person's personality",
-				Age: 17,
-				Occupation: "Searching for a cure for the Empress",
-				Family: "No parents, only family are the people who raised him.",
-				Location: "The Grassy Plains of Fantasia",
-				Character: "Strong, reliable and fearless.",
+				Name: "Isabel Pérez",
+				Photo: "persona1.jpg",
+				Quote: "La vida es bella",
+				Age: 56,
+				Occupation: "Recepcionista",
+				Family: "Casada, 3 hijos independizados",
+				Location: "Zaidín, Granada",
+				Character: "Luchadora, sincera y apañada. Muy tradicional, se frustra con la tecnología",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 4 },
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 4 }
 				], 
-				Goals: ["The goals this user hopes to achieve.", "A task that needs to be completed.", "A life goal to be reached.", "An experience to be felt."],
-				Frustrations: ["The frustrations this user would like to avoid.", "The obstacle that prevents the user from achieving their goals.", "The problems with the solutions already available.", "The product or service which does not currently exist."],
-				Bio: "The bio should be a short paragraph to describe the user journey. It should include some of their history leading up to a current use case. It may be helpful to incorporate information listed across the template and add pertinent details that may have been left out. Highlight factors of the user's personal and professional life that make this user an ideal customer of your product.",
+				Goals: ["Ser abuela.", "Conocer el mundo junto a su marido.", "Tener una vida tranquila.", "Conocer al Papa."],
+				Frustrations: ["La tecnología se le resiste.", "Odia que le lleven la contraria.", "Pierde los nervios con los animales.", "No se ha sacado el carné de conducir."],
+				Bio: "Nació en Maracena, donde comenzó su educación y la dejó tempranamente para trabajar en el campo. De adolescente se enamoró de quien hoy es su marido y se casaron pasados los 20 años. A los 36 decidió dejar de ser ama de casa y abandonar el campo. Acabó entonces sus estudios obligatorios y consiguió un puesto de trabajo en una clínica de belleza en el centro de Granada como recepcionista ",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 5 },
-					{ Name: "Mobile", Value: 3 },
+					{ Name: "TIC/Internet", Value: 1 },
+					{ Name: "Mobile", Value: 2 },
 					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 5 }
+					{ Name: "Software", Value: 0 }
 					
 				], 
-                Contextos:   "The goals this user hopes to achieve." ,
+                Contextos:   "Se acerca Semana Santa y quiere realizar turismo rural por Galicia junto a su esposo." ,
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional (Ads)", Value: 5 },
-					{ Name: "Online & Social Media", Value: 2 },
+					{ Name: "Online & Social Media", Value: 1 },
 					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 2 }
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4 }
 				]
 			}
 		];
