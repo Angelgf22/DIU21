@@ -16,15 +16,15 @@ Cristian Fernández Jiménez
 
 
 ## Isabel Pérez
-![Imagen](isabel.PNG)
+![Imagen](isabel.png)
 
 # Journey Map:
 
-## Darío
+## Julio Colón
 
 ![Imagen](journey1.png)
 
-## Anabel
+## Isabel Pérez
 
 ![Imagen](journey2.png)
 
