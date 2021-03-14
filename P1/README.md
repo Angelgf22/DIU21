@@ -11,22 +11,22 @@ Cristian Fernández Jiménez
 
 # Personas:
 
-## [Julio Colón](https://pmartin97.github.io/indexP.html)
-![Método UX](julio.png)
+## Julio Colón
+![Imagen](julio.png)
 
 
-## [Isabel Pérez](https://pmartin97.github.io/indexP.html)
-![Método UX](isabel.PNG)
+## [Isabel Pérez]
+![Imagen UX](isabel.PNG)
 
 # Journey Map:
 
 ## [Darío](https://pmartin97.github.io/indexJ.html)
 
-![Método UX](photos/journey1.png)
+![Imagen](photos/journey1.png)
 
 ## [Anabel](https://pmartin97.github.io/indexJ.html)
 
-![Método UX](photos/journey2.png)
+![Imagen](photos/journey2.png)
 
 # Usability review
 
