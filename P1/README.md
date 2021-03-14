@@ -15,18 +15,18 @@ Cristian Fernández Jiménez
 ![Imagen](julio.png)
 
 
-## [Isabel Pérez]
-![Imagen UX](isabel.PNG)
+## Isabel Pérez
+![Imagen](isabel.PNG)
 
 # Journey Map:
 
-## [Darío](https://pmartin97.github.io/indexJ.html)
+## Darío
 
-![Imagen](photos/journey1.png)
+![Imagen](journey1.png)
 
-## [Anabel](https://pmartin97.github.io/indexJ.html)
+## Anabel
 
-![Imagen](photos/journey2.png)
+![Imagen](journey2.png)
 
 # Usability review
 
