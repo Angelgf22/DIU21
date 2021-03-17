@@ -32,22 +32,37 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Principalmente analizamos páginas de turismo nacional como son esmadrid, turgranada, granadatur, turismo.gal, turismocantabria y turismoasturias ya que eran las propuestas en la misma práctica, de entre todas estas analizamos si contaban con apartados que consideramos de importancia, a la hora de diseñar una página con esta funcionalidad como puede ser si cuenta con:
+
+>>> Un apartado que abarca toda posible actividad turística.
+>>> Que permitiera guardar lugares y sitios para poder listarlos perosnalmente.
+>>> Información concreta de cada lugar a visitar con referencias a su propia página web.
+>>> Lugares con un enlace a compra de entradas...
+>>> Existencia de un mapa que situara lugares a partir de distintos filtros.
+>>> Cuenta con una aplicación móvil.
+>>> Redes sociales asociadas.
+>>> Grandes fallos percibidos de las mismas.
+
+De esas páginas concluimos que la que mejor cumplia estos puntos era turismo.gal y la seleccionamos ya que al ser una página del gobierno autonómico y requerir la máxima perfección, además de centrarse en toda la comunidad y no solo una única ciudad.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
 La primera persona elegida (Julio) es un perfil de una persona dicapacitada, la cual quiere hacer un viaje con sus amigos, que no se lleva mal con la tecnología; sin embargo a veces se da el caso de que no se presenta una opción para estas personas (que no se tienen en cuenta) o bien la información que se les proporciona no es muy amplia.
 
+## Julio Colón
+![Imagen](P1/julio.png)
+
 La segunda persona elegida (Isabel) es un perfil bastante común, una persona adulta en torno a 50~ años, sin mucho conocimiento sobre la tecnología y por tanto le puede costar orientasrse.
+## Isabel Pérez
+![Imagen](P1/isabel.png)
 
 Los hemos escogido porque nos parecía interesante empatizar más a fondo con estas situaciones y acercarnos más a sus puntos de vista.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+Como primera experiencia hemos supuesto que Julio quiere hacer el Camino de Santiago adaptado a su condición, es por ello que buscará información y exigirá a la página lo suficiente para poder planearlo por completo.  En el segundo caso Isabel quiere organizar una escapada rural a Galicia en Semana Santa, pero es la primera vez que intenta reservar algo así desde internet, por lo que requiere una página simple y con todo lo necesario para poder realizar la experiencia.  Consideramos estas experiencias muy frecuentes, aunque traten aspectos bastante inusuales.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
