@@ -43,7 +43,9 @@ Principalmente analizamos páginas de turismo nacional como son esmadrid, turgra
 - Redes sociales asociadas.
 - Grandes fallos percibidos de las mismas.
 
-De esas páginas concluimos que la que mejor cumplia estos puntos era turismo.gal y la seleccionamos ya que al ser una página del gobierno autonómico y requerir la máxima perfección, además de centrarse en toda la comunidad y no solo una única ciudad.
+De esas páginas concluimos que la que mejor cumplia estos puntos era turismo.gal.
+
+La seleccionamos ya que al ser una página del gobierno autonómico, requiere la máxima perfección, y además se centra en toda la comunidad y no solo una única ciudad.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
