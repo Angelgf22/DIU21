@@ -71,8 +71,8 @@ Consideramos estas experiencias muy frecuentes, aunque traten aspectos bastante 
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
+ - Enlace al documento:  [PDF](P1/Usability-review-TURISMOGAL.pdf)
+ - Valoración final (numérica): 79
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
 
