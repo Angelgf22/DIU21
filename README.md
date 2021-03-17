@@ -62,7 +62,11 @@ Los hemos escogido porque nos parecía interesante empatizar más a fondo con es
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-Como primera experiencia hemos supuesto que Julio quiere hacer el Camino de Santiago adaptado a su condición, es por ello que buscará información y exigirá a la página lo suficiente para poder planearlo por completo.  En el segundo caso Isabel quiere organizar una escapada rural a Galicia en Semana Santa, pero es la primera vez que intenta reservar algo así desde internet, por lo que requiere una página simple y con todo lo necesario para poder realizar la experiencia.  Consideramos estas experiencias muy frecuentes, aunque traten aspectos bastante inusuales.
+Como primera experiencia hemos supuesto que Julio quiere hacer el Camino de Santiago adaptado a su condición, es por ello que buscará información y exigirá a la página lo suficiente para poder planearlo por completo.  
+
+En el segundo caso Isabel quiere organizar una escapada rural a Galicia en Semana Santa, pero es la primera vez que intenta reservar algo así desde internet, por lo que requiere una página simple y con todo lo necesario para poder realizar la experiencia.  
+
+Consideramos estas experiencias muy frecuentes, aunque traten aspectos bastante inusuales.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
