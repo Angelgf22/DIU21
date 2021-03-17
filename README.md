@@ -34,14 +34,14 @@ Miembros
 
 Principalmente analizamos páginas de turismo nacional como son esmadrid, turgranada, granadatur, turismo.gal, turismocantabria y turismoasturias ya que eran las propuestas en la misma práctica, de entre todas estas analizamos si contaban con apartados que consideramos de importancia, a la hora de diseñar una página con esta funcionalidad como puede ser si cuenta con:
 
->>> Un apartado que abarca toda posible actividad turística.
->>> Que permitiera guardar lugares y sitios para poder listarlos perosnalmente.
->>> Información concreta de cada lugar a visitar con referencias a su propia página web.
->>> Lugares con un enlace a compra de entradas...
->>> Existencia de un mapa que situara lugares a partir de distintos filtros.
->>> Cuenta con una aplicación móvil.
->>> Redes sociales asociadas.
->>> Grandes fallos percibidos de las mismas.
+- Un apartado que abarca toda posible actividad turística.
+- Que permitiera guardar lugares y sitios para poder listarlos perosnalmente.
+- Información concreta de cada lugar a visitar con referencias a su propia página web.
+- Lugares con un enlace a compra de entradas...
+- Existencia de un mapa que situara lugares a partir de distintos filtros.
+- Cuenta con una aplicación móvil.
+- Redes sociales asociadas.
+- Grandes fallos percibidos de las mismas.
 
 De esas páginas concluimos que la que mejor cumplia estos puntos era turismo.gal y la seleccionamos ya que al ser una página del gobierno autonómico y requerir la máxima perfección, además de centrarse en toda la comunidad y no solo una única ciudad.
 
