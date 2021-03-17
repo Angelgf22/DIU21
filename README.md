@@ -73,8 +73,7 @@ Consideramos estas experiencias muy frecuentes, aunque traten aspectos bastante 
 >>>> SE deben incluir claramente los siguientes elementos
  - Enlace al documento:  [PDF](P1/Usability-review-TURISMOGAL.pdf)
  - Valoración final (numérica): 79
->>> - Comentario sobre la valoración:  (60-120 caracteres)
-
+ - Como era de esperar la valoración obtenida es alta, es una página con un buen diseño, muchisima accesibilidad y prácticamente cumple de sobra con los requisitos evaluados, como se puede notar el mayor problema que podemos percibir y notamos desde el analisis competitivo de la misma es el tiempo de carga que proporciona; sin embargo los demás puntos a evaluar son más que notables.
 
 ## Paso 2. UX Design  
 
