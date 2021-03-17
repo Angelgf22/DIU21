@@ -47,13 +47,13 @@ La seleccionamos ya que al ser una página del gobierno autonómico, requiere la
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
-La primera persona elegida (Julio) es un perfil de una persona dicapacitada, la cual quiere hacer un viaje con sus amigos, que no se lleva mal con la tecnología; sin embargo a veces se da el caso de que no se presenta una opción para estas personas (que no se tienen en cuenta) o bien la información que se les proporciona no es muy amplia.
 
 ## Julio Colón
+La primera persona elegida (Julio) es un perfil de una persona dicapacitada, la cual quiere hacer un viaje con sus amigos, que no se lleva mal con la tecnología; sin embargo a veces se da el caso de que no se presenta una opción para estas personas (que no se tienen en cuenta) o bien la información que se les proporciona no es muy amplia.
 ![Imagen](P1/julio.png)
 
-La segunda persona elegida (Isabel) es un perfil bastante común, una persona adulta en torno a 50~ años, sin mucho conocimiento sobre la tecnología y por tanto le puede costar orientasrse.
 ## Isabel Pérez
+La segunda persona elegida (Isabel) es un perfil bastante común, una persona adulta en torno a 50~ años, sin mucho conocimiento sobre la tecnología y por tanto le puede costar orientasrse.
 ![Imagen](P1/isabel.png)
 
 Los hemos escogido porque nos parecía interesante empatizar más a fondo con estas situaciones y acercarnos más a sus puntos de vista.
