@@ -108,7 +108,7 @@ Por último se dispondrá de ayuda en tiempo real para los usuarios que la neces
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+![Imagen](P2/Task-Analysis.png) 
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
