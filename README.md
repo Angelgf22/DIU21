@@ -115,17 +115,14 @@ Por último se dispondrá de ayuda en tiempo real para los usuarios que la neces
 ----
 
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+![Imagen](P2/imagenes/label.png)
+  
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
+![Imagen](P2/bocetos/inicio.png) 
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
