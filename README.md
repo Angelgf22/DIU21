@@ -87,7 +87,7 @@ Consideramos estas experiencias muy frecuentes, aunque traten aspectos bastante 
 ----
 
 
-![Imagen](P2/malla-receptora.png)
+![Imagen](P2/imagenes/malla-receptora.png)
 
   
     
@@ -103,12 +103,12 @@ Por último se dispondrá de ayuda en tiempo real para los usuarios que la neces
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
-![Imagen](P2/CANVAS.png)
+![Imagen](P2/imagenes/CANVAS.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
-![Imagen](P2/Task-Analysis.png) 
+![Imagen](P2/imagenes/Task-Analysis.png) 
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
