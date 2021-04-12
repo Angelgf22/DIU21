@@ -23,10 +23,10 @@ Por último se dispondrá de ayuda en tiempo real para los usuarios que la neces
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
-![Imagen](bocetos/sitemap.png)
+![Imagen](imagenes/sitemap.png)
 
 * Labelling 
-![Imagen](bocetos/label.png)
+![Imagen](imagenes/label.png)
 
 ### Prototipo Lo-FI Wireframe 
 * Granatour - Página principal
