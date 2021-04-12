@@ -117,4 +117,5 @@ Por último se dispondrá de ayuda en tiempo real para los usuarios que la neces
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+En la etapa de Diseño UX hemos trabajado los cimientos para desarrollar una aplicación, acercándonos a los usuarios destino, ideando estructuras e interfaces y aproximándonos a un boceto general de lo que sería una aplicación completa.
+Sin duda consideramos que es un paso necesario para garantizar la completitud del software y la aplicación en general destinándola así de mejor manera hacia el usuario.
