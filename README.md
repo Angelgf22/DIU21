@@ -122,65 +122,86 @@ Por último se dispondrá de ayuda en tiempo real para los usuarios que la neces
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 ### Prototipo Lo-FI Wireframe 
+
 * Granatour - Página principal
 ![Imagen](P2/bocetos/inicio.png)
+
 
 * Hostelería
 ![Imagen](P2/bocetos/hosteleria.png)
 
+
 * Sitio Hosteleria
 ![Imagen](P2/bocetos/sitio-hosteleria.png)
+
 
 * Reserva (Usada en Hosteleria, Hospedaje y Eventos)
 ![Imagen](P2/bocetos/reserva.png)
 
+
 * Hospedaje
 ![Imagen](P2/bocetos/hospedaje.png)
+
 
 * Sitio Hospedaje
 ![Imagen](P2/bocetos/sitio-hospedaje.png)
 
+
 * Rutas
 ![Imagen](P2/bocetos/rutas.png)
+
 
 * Ruta info
 ![Imagen](P2/bocetos/ruta-info.png)
 
+
 * Eventos
 ![Imagen](P2/bocetos/eventos.png)
+
 
 * Evento info
 ![Imagen](P2/bocetos/evento-info.png)
 
+
 * Lugares de interés
 ![Imagen](P2/bocetos/lugares.png)
+
 
 * Lugar info
 ![Imagen](P2/bocetos/lugar-info.png)
 
+
 * Login
 ![Imagen](P2/bocetos/login.png)
+
 
 * Registro
 ![Imagen](P2/bocetos/registro.png)
 
+
 * Perfil
 ![Imagen](P2/bocetos/perfil.png)
+
 
 * Ajustes Cuenta
 ![Imagen](P2/bocetos/ajustes.png)
 
+
 * Dar de baja
 ![Imagen](P2/bocetos/dar-baja.png)
+
 
 * Lista de viaje
 ![Imagen](P2/bocetos/listaviaje.png)
 
+
 * Quiénes Somos
 ![Imagen](P2/bocetos/quienes.png)
 
+
 * Contacto
 ![Imagen](P2/bocetos/contacto.png)
+
 
 
 
