@@ -123,64 +123,64 @@ Por último se dispondrá de ayuda en tiempo real para los usuarios que la neces
 -----
 ### Prototipo Lo-FI Wireframe 
 * Granatour - Página principal
-![Imagen](bocetos/inicio.png)
+![Imagen](P2/bocetos/inicio.png)
 
 * Hostelería
-![Imagen](bocetos/hosteleria.png)
+![Imagen](P2/bocetos/hosteleria.png)
 
 * Sitio Hosteleria
-![Imagen](bocetos/sitio-hosteleria.png)
+![Imagen](P2/bocetos/sitio-hosteleria.png)
 
 * Reserva (Usada en Hosteleria, Hospedaje y Eventos)
-![Imagen](bocetos/reserva.png)
+![Imagen](P2/bocetos/reserva.png)
 
 * Hospedaje
-![Imagen](bocetos/hospedaje.png)
+![Imagen](P2/bocetos/hospedaje.png)
 
 * Sitio Hospedaje
-![Imagen](bocetos/sitio-hospedaje.png)
+![Imagen](P2/bocetos/sitio-hospedaje.png)
 
 * Rutas
-![Imagen](bocetos/rutas.png)
+![Imagen](P2/bocetos/rutas.png)
 
 * Ruta info
-![Imagen](bocetos/ruta-info.png)
+![Imagen](P2/bocetos/ruta-info.png)
 
 * Eventos
-![Imagen](bocetos/eventos.png)
+![Imagen](P2/bocetos/eventos.png)
 
 * Evento info
-![Imagen](bocetos/evento-info.png)
+![Imagen](P2/bocetos/evento-info.png)
 
 * Lugares de interés
-![Imagen](bocetos/lugares.png)
+![Imagen](P2/bocetos/lugares.png)
 
 * Lugar info
-![Imagen](bocetos/lugar-info.png)
+![Imagen](P2/bocetos/lugar-info.png)
 
 * Login
-![Imagen](bocetos/login.png)
+![Imagen](P2/bocetos/login.png)
 
 * Registro
-![Imagen](bocetos/registro.png)
+![Imagen](P2/bocetos/registro.png)
 
 * Perfil
-![Imagen](bocetos/perfil.png)
+![Imagen](P2/bocetos/perfil.png)
 
 * Ajustes Cuenta
-![Imagen](bocetos/ajustes.png)
+![Imagen](P2/bocetos/ajustes.png)
 
 * Dar de baja
-![Imagen](bocetos/dar-baja.png)
+![Imagen](P2/bocetos/dar-baja.png)
 
 * Lista de viaje
-![Imagen](bocetos/listaviaje.png)
+![Imagen](P2/bocetos/listaviaje.png)
 
 * Quiénes Somos
-![Imagen](bocetos/quienes.png)
+![Imagen](P2/bocetos/quienes.png)
 
 * Contacto
-![Imagen](bocetos/contacto.png)
+![Imagen](P2/bocetos/contacto.png)
 
 
 
