@@ -30,63 +30,83 @@ Por último se dispondrá de ayuda en tiempo real para los usuarios que la neces
 
 ### Prototipo Lo-FI Wireframe 
 * Granatour - Página principal
+
 ![Imagen](bocetos/inicio.png)
 
 * Hostelería
+
 ![Imagen](bocetos/hosteleria.png)
 
 * Sitio Hosteleria
+
 ![Imagen](bocetos/sitio-hosteleria.png)
 
 * Reserva (Usada en Hosteleria, Hospedaje y Eventos)
+
 ![Imagen](bocetos/reserva.png)
 
 * Hospedaje
+
 ![Imagen](bocetos/hospedaje.png)
 
 * Sitio Hospedaje
+
 ![Imagen](bocetos/sitio-hospedaje.png)
 
 * Rutas
+
 ![Imagen](bocetos/rutas.png)
 
 * Ruta info
+
 ![Imagen](bocetos/ruta-info.png)
 
 * Eventos
+
 ![Imagen](bocetos/eventos.png)
 
 * Evento info
+
 ![Imagen](bocetos/evento-info.png)
 
 * Lugares de interés
+
 ![Imagen](bocetos/lugares.png)
 
 * Lugar info
+
 ![Imagen](bocetos/lugar-info.png)
 
 * Login
+
 ![Imagen](bocetos/login.png)
 
 * Registro
+
 ![Imagen](bocetos/registro.png)
 
 * Perfil
+
 ![Imagen](bocetos/perfil.png)
 
 * Ajustes Cuenta
+
 ![Imagen](bocetos/ajustes.png)
 
 * Dar de baja
+
 ![Imagen](bocetos/dar-baja.png)
 
 * Lista de viaje
+
 ![Imagen](bocetos/listaviaje.png)
 
 * Quiénes Somos
+
 ![Imagen](bocetos/quienes.png)
 
 * Contacto
+
 ![Imagen](bocetos/contacto.png)
 
 
