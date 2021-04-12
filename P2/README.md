@@ -28,6 +28,7 @@ Por último se dispondrá de ayuda en tiempo real para los usuarios que la neces
 ![Imagen](imagenes/label.png)
 
 * Labelling 
+![Imagen](imagenes/labelling.png)
 
 
 ### Prototipo Lo-FI Wireframe 
