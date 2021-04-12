@@ -18,16 +18,19 @@ Por último se dispondrá de ayuda en tiempo real para los usuarios que la neces
 ### TASK ANALYSIS
 
 * User Task Matrix 
+
 ![Imagen](imagenes/Task-Analysis.png)
 
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
+
 ![Imagen](imagenes/sitemap.png)
 
 ![Imagen](imagenes/label.png)
 
 * Labelling 
+
 ![Imagen](imagenes/labelling.png)
 
 
