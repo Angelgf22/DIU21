@@ -114,8 +114,17 @@ Por último se dispondrá de ayuda en tiempo real para los usuarios que la neces
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-![Imagen](P2/imagenes/labelling.png)
+* Sitemap
+![Imagen](P2/imagenes/sitemap.png)
+
+* Sitemap Info
 ![Imagen](P2/imagenes/label.png)
+
+* Labelling
+![Imagen](P2/imagenes/labelling.png)
+
+
+
   
 
 
