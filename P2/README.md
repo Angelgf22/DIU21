@@ -2,9 +2,7 @@
 
 ### Ideación 
 * Malla receptora de información 
-* Mapa de empatía
-* Point of View 
-
+![Imagen](malla-receptora.png)
 
 ### PROPUESTA DE VALOR
 * GRANATOUR
@@ -15,19 +13,20 @@ Las búsquedas serán por filtros de distintos tipos y basados en lo que al usua
 La página se actualizará haciendo uso de cookies y en base a la experiencia de usuario.
 Por último se dispondrá de ayuda en tiempo real para los usuarios que la necesiten.
 
-
+![Imagen](CANVAS.png)
 
 ### TASK ANALYSIS
 
 * User Task Matrix 
-* User/Task flow
-
+![Imagen](Task-Analysis.png)
 
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
-* Labelling 
+![Imagen](sitemap.png)
 
+* Labelling 
+![Imagen](label.png)
 
 ### Prototipo Lo-FI Wireframe 
 
