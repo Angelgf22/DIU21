@@ -25,8 +25,10 @@ Por último se dispondrá de ayuda en tiempo real para los usuarios que la neces
 * Sitemap 
 ![Imagen](imagenes/sitemap.png)
 
-* Labelling 
 ![Imagen](imagenes/label.png)
+
+* Labelling 
+
 
 ### Prototipo Lo-FI Wireframe 
 * Granatour - Página principal
