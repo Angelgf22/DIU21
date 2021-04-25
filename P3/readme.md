@@ -1,6 +1,6 @@
 # DIU - Practica 3, entregables
 
-![GRANATOUR](icono.png)
+![GRANATOUR](logo.png)
 
 ## Moodboard (diseño visual + logotipo)   
 

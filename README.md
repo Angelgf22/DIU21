@@ -18,7 +18,7 @@ Por último se dispondrá de ayuda en tiempo real para los usuarios que la neces
 
 
 Logotipo: 
-![GRANATOUR](P3/icono.png)
+![GRANATOUR](P3/logo.png)
 
 Miembros
  * :bust_in_silhouette: [Ángel Gómez Ferrer](https://github.com/Angelgf22) :octocat:     
@@ -247,7 +247,7 @@ Por último se dispondrá de ayuda en tiempo real para los usuarios que la neces
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 
-![Método UX](P3/icono.png)
+![Método UX](P3/logo.png)
 
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
