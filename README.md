@@ -18,7 +18,7 @@ Por último se dispondrá de ayuda en tiempo real para los usuarios que la neces
 
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![GRANATOUR](P3/icono.png)
 
 Miembros
  * :bust_in_silhouette: [Ángel Gómez Ferrer](https://github.com/Angelgf22) :octocat:     
@@ -243,15 +243,19 @@ Por último se dispondrá de ayuda en tiempo real para los usuarios que la neces
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+![Método UX](P3/moodboard.png)
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
+
+![Método UX](P3/icono.png)
+
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+![Método UX](P3/landpage.png)
 
 >>> Plantear Landing Page 
 

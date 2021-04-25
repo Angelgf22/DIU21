@@ -1,10 +1,14 @@
 # DIU - Practica 3, entregables
 
+![GRANATOUR](icono.png)
+
 ## Moodboard (diseño visual + logotipo)   
 
+![MOODBOARD](moodboard.png)
 
 ## Landing Page
 
+![LANDPAGE](landpage.png)
 
 ## Mockup: LAYOUT HI-FI
 
