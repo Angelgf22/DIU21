@@ -281,6 +281,11 @@ Los iconos son simples y muy facil de reconocer, para posibilitar el fácil uso 
 En nuestro caso, hemos optado por una paleta con tonos marrones y pálidos, que recuerdan a los distintos tonos que puede tener la Alhambra de Granada, en sus diferentes zonas y con el paso de los años. 
 La intención es la comodidad de los visitantes y el confort visual.
 
+![Imagen](P3/logo.png)
+
+Por último, acomodamos estos factores al Logo de nuestra APP o Página, con un pequeño icono del Patio de los Arrayanes de la Alhambra de Granada.
+Así se logra una conexión directa con la finalidad de la aplicación.
+
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
