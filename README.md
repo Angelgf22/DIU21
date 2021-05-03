@@ -265,6 +265,22 @@ Por último se dispondrá de ayuda en tiempo real para los usuarios que la neces
 >>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
+![Imagen](P3/barlowLIGHT.png)
+![Imagen](P3/barlowMEDIUM.png)
+
+En cuanto a las fuentes, hemos optado por Barlow. 
+Se trata de un diseño sencillo y elegante, que utilizaremos en negrita e italic para resaltar la información más importante.
+
+![Imagen](P3/iconos.png)
+
+Los iconos son simples y muy facil de reconocer, para posibilitar el fácil uso de la aplicación y agrado.
+
+
+![Imagen](P3/paletaCOLORES.png)
+
+En nuestro caso, hemos optado por una paleta con tonos marrones y pálidos, que recuerdan a los distintos tonos que puede tener la Alhambra de Granada, en sus diferentes zonas y con el paso de los años. 
+La intención es la comodidad de los visitantes y el confort visual.
+
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
