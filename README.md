@@ -245,11 +245,10 @@ Por último se dispondrá de ayuda en tiempo real para los usuarios que la neces
 
 ![Método UX](P3/moodboard.png)
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 
 ![Método UX](P3/logo.png)
 
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+El logo se ha realizado con Wix. Puede usarse como imagen de perfil en las diferentes redes sociales, pero no como cabecera dada su resolución cuadrada.
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
@@ -262,8 +261,6 @@ Por último se dispondrá de ayuda en tiempo real para los usuarios que la neces
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
 ![Imagen](P3/barlowLIGHT.png)
 ![Imagen](P3/barlowMEDIUM.png)
