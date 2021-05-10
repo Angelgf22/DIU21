@@ -283,6 +283,21 @@ La intención es la comodidad de los visitantes y el confort visual.
 Por último, acomodamos estos factores al Logo de nuestra APP o Página, con un pequeño icono del Patio de los Arrayanes de la Alhambra de Granada.
 Así se logra una conexión directa con la finalidad de la aplicación.
 
+** Patrones UI
+En cuanto a patrones se han diseñado páginas que cumplen con los siguientes:
+
+- Login y Registro: Página inicial donde ha de registrarse con una red social ó iniciar sesión.
+- Marcadores y favoritos: Posibilidad de añadir lugares a Mi lista de viaje.
+- Detalles de contenido: Información específica de los lugares.
+- Mapas: Localización detallada del lugar en cuestión.
+- Sugerencias: Link a lugares recomendados.
+- Comentarios: Posibilidad de escribir y leer comentarios.
+- Información sobre la empresa: Información sobre la aplicación en cuestión en ¿Quiénes somos?
+- Ayuda y retroalimentación: Añadido de ayuda en ¿Necesitas ayuda?
+- Filtrar y ordenar: Filtro y ordenación de búsquedas.
+- Perfil y cuenta: Perfil de usuario y ajustes de este.
+- Compartir: Posibilidad de compartir los lugares.
+
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
