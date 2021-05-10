@@ -299,8 +299,15 @@ En cuanto a patrones se han diseñado páginas que cumplen con los siguientes:
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+![Log In](P3/Log%20In.png)
 
+![Principal](P3/Principal.png)
+
+![Menú](P3/Menú.png)
+
+![Búsqueda](P3/Búsqueda.png)
+
+![Sitio Hospedaje](P3/Sitio%20Hospedaje.png)
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
