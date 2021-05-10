@@ -34,7 +34,11 @@ Por último, acomodamos estos factores al Logo de nuestra APP o Página, con un 
 Así se logra una conexión directa con la finalidad de la aplicación.
 
 ## Mockup: LAYOUT HI-FI
-
+![Log In](Log In.png)
+![Principal](Principal.png)
+![Menú](Menú.png)
+![Búsqueda](Búsqueda.png)
+![Sitio Hospedaje](Sitio Hospedaje.png)
 
 ## Documentación: Publicación del Case Study
 
