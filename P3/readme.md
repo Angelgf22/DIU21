@@ -71,4 +71,4 @@ En cuanto a patrones se han diseñado páginas que cumplen con los siguientes:
 
 ## Documentación: Publicación del Case Study
 
-La explicación se encuentra [aquí](https://www.youtube.com/watch?v=p9j3sk-qmlE).
+La explicación se encuentra [aquí](https://www.youtube.com/watch?v=kpB3Zgwq-bg).
