@@ -49,14 +49,23 @@ En cuanto a patrones se han diseñado páginas que cumplen con los siguientes:
 - Compartir: Posibilidad de compartir los lugares.
 
 ## Mockup: LAYOUT HI-FI
+* Página de Inicio de Sesión y Registro
 
 ![Log In](Log%20In.png)
 
+* Página principal
+
 ![Principal](Principal.png)
+
+* Menú lateral desplegable
 
 ![Menú](Menú.png)
 
+* Búsqueda 
+
 ![Búsqueda](Búsqueda.png)
+
+* Página de ejemplo de sitio
 
 ![Sitio Hospedaje](Sitio%20Hospedaje.png)
 
