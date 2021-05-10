@@ -283,7 +283,7 @@ La intención es la comodidad de los visitantes y el confort visual.
 Por último, acomodamos estos factores al Logo de nuestra APP o Página, con un pequeño icono del Patio de los Arrayanes de la Alhambra de Granada.
 Así se logra una conexión directa con la finalidad de la aplicación.
 
-** Patrones UI
+* Patrones UI
 En cuanto a patrones se han diseñado páginas que cumplen con los siguientes:
 
 - Login y Registro: Página inicial donde ha de registrarse con una red social ó iniciar sesión.
