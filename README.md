@@ -300,18 +300,23 @@ En cuanto a patrones se han diseñado páginas que cumplen con los siguientes:
 ----
 
 * Página de Inicio de Sesión y Registro
+
 ![Log In](P3/Log%20In.png)
 
 * Página principal
+
 ![Principal](P3/Principal.png)
 
 * Menú lateral desplegable
+
 ![Menú](P3/Menú.png)
 
 * Búsqueda 
+
 ![Búsqueda](P3/Búsqueda.png)
 
 * Página de ejemplo de sitio
+
 ![Sitio Hospedaje](P3/Sitio%20Hospedaje.png)
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
