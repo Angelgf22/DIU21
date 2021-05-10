@@ -35,7 +35,7 @@ Así se logra una conexión directa con la finalidad de la aplicación.
 
 ## Mockup: LAYOUT HI-FI
 
-![Log In](Log%20In.png.png)
+![Log In](Log%20In.png)
 
 ![Principal](Principal.png)
 
