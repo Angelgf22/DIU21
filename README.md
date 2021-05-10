@@ -322,7 +322,7 @@ En cuanto a patrones se han diseñado páginas que cumplen con los siguientes:
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-La explicación se encuentra [aquí](https://www.youtube.com/watch?v=p9j3sk-qmlE).
+La explicación se encuentra [aquí](https://www.youtube.com/watch?v=kpB3Zgwq-bg).
 
 
 ## Paso 4. Evaluación 
