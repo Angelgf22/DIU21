@@ -256,8 +256,6 @@ El logo se ha realizado con Wix. Puede usarse como imagen de perfil en las difer
 
 ![Método UX](P3/landpage.png)
 
->>> Plantear Landing Page 
-
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
