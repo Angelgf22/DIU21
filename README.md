@@ -360,12 +360,12 @@ Hemos generado dos cuestionarios para el caso [A](https://docs.google.com/forms/
 A continuación hemos obtenido las puntuaciones SUS con la media de las respuestas para cada prototipo:
 
 A: 86,25 
-![Excel](P4/Caso A (respuestas).xlsx)
+[Excel](https://github.com/Angelgf22/DIU21/blob/master/P4/Caso%20A%20(respuestas).xlsx)
 
 B: 68,57142857 
-![Excel](P4/Caso B (respuestas).xlsx)
+[Excel](https://github.com/Angelgf22/DIU21/blob/master/P4/Caso%20B%20(respuestas).xlsx)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+En cuanto a valoración del caso B (Navis), hemos de decir que la nota obtenida por las valoraciones de las personas puede deberse al exceso de simpleza de la aplicación. Esto es bueno hasta cierto punto, sin embargo, para una aplicación de viajes se necesita un mínimo de complejidad a la hora de realizar búsquedas mediante filtros y fechas. Probablemente los compañeros lo hayan planteado pero no se hayan centrado en ello en los Mockups. En cuanto a diseño de colores e iconos está acertado, puesto que son colores atractivos y que invitan a permanecer en la aplicación, aunque quizás son poco originales porque recuerdan a páginas como Ryanair o Skyscanner.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
