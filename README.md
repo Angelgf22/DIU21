@@ -359,8 +359,11 @@ Hemos generado dos cuestionarios para el caso [A](https://docs.google.com/forms/
 
 A continuación hemos obtenido las puntuaciones SUS con la media de las respuestas para cada prototipo:
 
-A: 86,25 ![Excel](P4/Caso A (respuestas).xlsx)
-B: 68,57142857 ![Excel](P4/Caso B (respuestas).xlsx)
+A: 86,25 
+![Excel](P4/Caso A (respuestas).xlsx)
+
+B: 68,57142857 
+![Excel](P4/Caso B (respuestas).xlsx)
 
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
