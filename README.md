@@ -340,12 +340,12 @@ Aplicación que permitar realizar itinerarios de viajes personalizados, permitie
 ----
  
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Tirada de dados | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Fernando  | H / 53   | Albañil  | Media       | Disgustado | Móvil/Web.       | A 
-| Juan  | H / 21   | Estudiante  | Avanzada       | Extrovertido       | Móvil/Web/Windows        | B 
-| Pedro  | M / 21   | Trabajador sector secundario     | Avanzada        | Fiestero    | Móvil/Web/Windows      | B 
-| María  | M / 58   | Ama de casa  | Baja       | Asustada     | Móvil        | A
+| Fernando  | H / 53   | Albañil  | Media       | Discapacitado/Planificador/Disgustado | Móvil/Web.       | A 
+| Juan  | H / 21   | Estudiante  | Avanzada       | Trabajador/Fiesta/Furioso       | Móvil/Web/Windows        | B 
+| Pedro  | H / 21   | Trabajador sector secundario     | Amigos/Fiestero/Sorprendido        | Fiestero    | Móvil/Web/Windows      | B 
+| María  | M / 58   | Ama de casa  | Baja       | Familia/Deporte/Asustada     | Móvil        | A
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
