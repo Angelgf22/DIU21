@@ -347,13 +347,20 @@ Aplicación que permitar realizar itinerarios de viajes personalizados, permitie
 | Pedro  | H / 21   | Trabajador sector secundario     | Amigos/Fiestero/Sorprendido        | Fiestero    | Móvil/Web/Windows      | B 
 | María  | M / 58   | Ama de casa  | Baja       | Familia/Deporte/Asustada     | Móvil        | A
 
+Tras la tirada de dados, hemos realizado los cuestionarios y mandado a personas reales que se adaptaban a estas tiradas
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+Hemos generado dos cuestionarios para el caso A y B, y han sido contestados por personas que se adecúan a los usuarios comentados anteriormente.
+
+![A](https://docs.google.com/forms/d/e/1FAIpQLSeJthlhAz1rKSFYXng3PKeYyweU-23RLJolVWizjdc4axrgeA/viewanalytics)
+![B](https://docs.google.com/forms/d/e/1FAIpQLSdDtSrK6NUaRZnXMgiEZIoMw9W2Wr_Mv-v3u343IFkT6sZmog/viewanalytics)
+
+A continuación hemos obtenido las puntuaciones SUS con la media de las respuestas para cada prototipo:
+
+A: 86,25 ![Excel](P4/Caso A (respuestas).xlsx)
+B: 68,57142857 ![Excel](P4/Caso B (respuestas).xlsx)
 
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
