@@ -333,7 +333,7 @@ La explicación se encuentra [aquí](https://www.youtube.com/watch?v=kpB3Zgwq-bg
 
 ![Navis](https://github.com/santiagocarbo89/DIU21)
 
-Aplicación que permitar realizar itinerarios de viajes personalizados, permitiendo a los usuarios guardar documentos, imágenes y videos relacionadas con el mismo, así como estimar un saldo común para su viaje.
+Aplicación que permite realizar itinerarios de viajes personalizados, permitiendo a los usuarios guardar documentos, imágenes y videos relacionadas con el mismo, así como estimar un saldo común para su viaje.
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
