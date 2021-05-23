@@ -331,22 +331,21 @@ La explicación se encuentra [aquí](https://www.youtube.com/watch?v=kpB3Zgwq-bg
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+![Navis](https://github.com/santiagocarbo89/DIU21)
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Aplicación que permitar realizar itinerarios de viajes personalizados, permitiendo a los usuarios guardar documentos, imágenes y videos relacionadas con el mismo, así como estimar un saldo común para su viaje.
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
-
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
  
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Fernando  | H / 53   | Albañil  | Media       | Disgustado | Móvil/Web.       | A 
+| Juan  | H / 21   | Estudiante  | Avanzada       | Extrovertido       | Móvil/Web/Windows        | B 
+| Pedro  | M / 21   | Trabajador sector secundario     | Avanzada        | Fiestero    | Móvil/Web/Windows      | B 
+| María  | M / 58   | Ama de casa  | Baja       | Asustada     | Móvil        | A
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
