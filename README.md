@@ -352,10 +352,10 @@ Tras la tirada de dados, hemos realizado los cuestionarios y mandado a personas 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
-Hemos generado dos cuestionarios para el caso A y B, y han sido contestados por personas que se adecúan a los usuarios comentados anteriormente.
+Hemos generado dos cuestionarios para el caso ![A](https://docs.google.com/forms/d/e/1FAIpQLSeJthlhAz1rKSFYXng3PKeYyweU-23RLJolVWizjdc4axrgeA/viewanalytics) y ![B](https://docs.google.com/forms/d/e/1FAIpQLSdDtSrK6NUaRZnXMgiEZIoMw9W2Wr_Mv-v3u343IFkT6sZmog/viewanalytics), y han sido contestados por personas que se adecúan a los usuarios comentados anteriormente.
 
-![A](https://docs.google.com/forms/d/e/1FAIpQLSeJthlhAz1rKSFYXng3PKeYyweU-23RLJolVWizjdc4axrgeA/viewanalytics)
-![B](https://docs.google.com/forms/d/e/1FAIpQLSdDtSrK6NUaRZnXMgiEZIoMw9W2Wr_Mv-v3u343IFkT6sZmog/viewanalytics)
+
+
 
 A continuación hemos obtenido las puntuaciones SUS con la media de las respuestas para cada prototipo:
 
