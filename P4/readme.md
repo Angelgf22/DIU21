@@ -17,7 +17,7 @@ Aplicación que permitar realizar itinerarios de viajes personalizados, permitie
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | Fernando  | H / 53   | Albañil  | Media       | Discapacitado/Planificador/Disgustado | Móvil/Web.       | A 
 | Juan  | H / 21   | Estudiante  | Avanzada       | Trabajador/Fiesta/Furioso       | Móvil/Web/Windows        | B 
-| Pedro  | H / 21   | Trabajador sector secundario     | Amigos/Fiestero/Sorprendido        | Fiestero    | Móvil/Web/Windows      | B 
+| Pedro  | H / 21   | Trabajador sector secundario     |  Avanzada       | Amigos/Fiestero/Sorprendido    | Móvil/Web/Windows      | B 
 | María  | M / 58   | Ama de casa  | Baja       | Familia/Deporte/Asustada     | Móvil        | A
 
 Tras la tirada de dados, hemos realizado los cuestionarios y mandado a personas reales que se adaptaban a estas tiradas
@@ -51,7 +51,7 @@ En cuanto a valoración del caso B (Navis), hemos de decir que la nota obtenida 
 
 La review del Case of Study de Salsoteca que hemos realizado se puede ver [aquí](https://github.com/Angelgf22/DIU21/blob/master/P4/UXCaseStudy-Salsoteca.xls)
 
-El report de usbailidad para la práctica B es el siguiente: [aquí](https://github.com/Angelgf22/DIU21/blob/master/P4/DIU_report-Navis-usability-test.pdf)
+El Usability Report del caso B (Navis-Salsoteca) es el siguiente: [PDF](https://github.com/Angelgf22/DIU21/blob/master/P4/DIU_report-Navis-usability-test.pdf)
 
 
 
