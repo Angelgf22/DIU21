@@ -344,7 +344,7 @@ Aplicación que permite realizar itinerarios de viajes personalizados, permitien
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | Fernando  | H / 53   | Albañil  | Media       | Discapacitado/Planificador/Disgustado | Móvil/Web.       | A 
 | Juan  | H / 21   | Estudiante  | Avanzada       | Trabajador/Fiesta/Furioso       | Móvil/Web/Windows        | B 
-| Pedro  | H / 21   | Trabajador sector secundario     | Amigos/Fiestero/Sorprendido        | Fiestero    | Móvil/Web/Windows      | B 
+| Pedro  | H / 21   | Trabajador sector secundario     |  Avanzada       | Amigos/Fiestero/Sorprendido    | Móvil/Web/Windows      | B 
 | María  | M / 58   | Ama de casa  | Baja       | Familia/Deporte/Asustada     | Móvil        | A
 
 Tras la tirada de dados, hemos realizado los cuestionarios y mandado a personas reales que se adaptaban a estas tiradas
