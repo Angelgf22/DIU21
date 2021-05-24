@@ -52,9 +52,3 @@ En cuanto a valoración del caso B (Navis), hemos de decir que la nota obtenida 
 La review del Case of Study de Salsoteca que hemos realizado se puede ver [aquí](https://github.com/Angelgf22/DIU21/blob/master/P4/UXCaseStudy-Salsoteca.xls)
 
 El Usability Report del caso B (Navis-Salsoteca) es el siguiente: [PDF](https://github.com/Angelgf22/DIU21/blob/master/P4/DIU_report-Navis-usability-test.pdf)
-
-
-
->>> Valoración personal 
-
-
