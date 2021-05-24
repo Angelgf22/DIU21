@@ -56,9 +56,5 @@ El report de usbailidad para la práctica B es el siguiente: [aquí](https://git
 
 
 >>> Valoración personal 
-Como conclusión creemos que sería correcto decir que todos los participantes consideraron la interfaz intuitiva, fácil de usar y algo a lo que estamos acostumbrados a ver y utilizar normalmente siendo de esta forma algo poco complejo y para lo que no necesitamos conocimientos previos de ningún tipo; sin embargo como ya se ha comentado sobre los resultados de las preguntas realizadas a los participantes, se podrían destacar como aspectos a mejorar: la longitud que pueda tener al recorrerlo (aunque este aspecto quizás no se pueda apreciar muy correctamente desde la experiencia visual que se proporciona a los usuarios), también la falta de consistencia en la App muy probablemente debido a la falta de información escrita y el hecho de no rellenar toda la pantalla con contenido pueden ser negativos visualmente, puesto que no se aprovecha el espacio de la pantalla.
 
-Añadir que la aplicación es a rasgos generales simple e intenta ir por la corriente del minimalismo, esto es muy bueno hasta cierto punto en el que quizás pueda hacer que no sea suficientemente intuitivo debido a la falta de información.
-
-Por último comentar desde el punto de vista de la apariencia, la paleta de colores e iconos que se han elegido para la aplicación son acertados.
 
