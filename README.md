@@ -381,21 +381,6 @@ La review del Case of Study de Salsoteca que hemos realizado se puede ver [aquí
 
 El Usability Report del caso B (Navis-Salsoteca) es el siguiente: [PDF](https://github.com/Angelgf22/DIU21/blob/master/P4/DIU_report-Navis-usability-test.pdf)
 
-## Paso 5. Evaluación de Accesibilidad  
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
 
 
 ## Conclusión final / Valoración de las prácticas
